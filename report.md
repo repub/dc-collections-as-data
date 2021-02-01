@@ -1,5 +1,21 @@
 # Collections as Data Task Force Report and Recommendations
 
+Kevin Clair, Research Informatics and Publishing (chair)  
+Linda Ballinger, Cataloging and Metadata Services  
+Carmen Cole, William and Joan Schreyer Business Library  
+Nathan Piekielek, Research Informatics and Publishing  
+Andrea Pritt, Penn State Harrisburg Library  
+Bethann Rea, Preservation, Conservation, and Digitization  
+Caitlin Rizzo, Eberly Family Special Collections Library  
+Heather Ross, Research Informatics and Publishing  
+John Russell, Research Informatics and Publishing
+
+* [Introduction](#introduction)
+* [Collections as Data at Penn State](#collections-as-data-at-penn-state-university-libraries)
+* [Background](#background)
+* [Activities and Working Groups](#task-force-activities-and-working-groups)
+* [Recommendations](#recommendations)
+
 ## Introduction
 
 The Collections as Data Task Force was charged by the Libraries administration in March 2020 to define the scope of computational services for digital collections at the Libraries, develop workflows for publishing materials to support these services, and create a proof of concept for providing these services for the benefit of the Penn State community. Its membership included digital collections managers as well as subject liaisons with stewardship responsibilities, both at University Park and the Commonwealth Campuses.
@@ -20,7 +36,7 @@ Collections as Data, in its imperative to consider our digital collections as so
 
 ## Background
 
-Collections as Data is [a philosophy of digital collection development](https://escholarship.org/uc/item/9881c8sv) encouraging computational use of the collections curated by digitization programs in libraries and archives, and the development of professional and ethical norms to ground the work. [The Collections as Data ethos](https://collectionsasdata.github.io/statement) was laid out in a series of workshops sponsored by the Institute of Museum and Library Services (IMLS) in 2017 and 2018, and consists of the following ten principles2:
+Collections as Data is [a philosophy of digital collection development](https://escholarship.org/uc/item/9881c8sv) encouraging computational use of the collections curated by digitization programs in libraries and archives, and the development of professional and ethical norms to ground the work. [The Collections as Data ethos](https://collectionsasdata.github.io/statement) was laid out in a series of workshops sponsored by the Institute of Museum and Library Services (IMLS) in 2017 and 2018, and consists of the following ten principles:
 
 * Collections as data development aims to encourage computational use of digitized and born digital collections
 * Collections as data stewards are guided by ongoing ethical commitments
